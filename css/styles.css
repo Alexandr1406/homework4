@@ -1,0 +1,73 @@
+body {
+    width: 785px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.head {
+    width: 785px;
+    height: 35px;
+    background-color: #a52a2a;
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.img {
+    margin-top: 25px;
+    width: 760px;
+    height: 225px;
+}
+
+.text {
+    margin-top: 25px;
+    font-size: 18px;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+i {
+    font-style: italic;
+}
+ strong {
+     font-weight: bold;
+ }
+ em{
+     font-style: italic;
+     color: #0000ff;
+     font-weight: 550;
+ }
+
+ .icon{
+     margin-top: 20px;
+     text-align: center;
+      }
+
+.car{
+    border: 3px dashed;
+}
+
+.text2 {
+    font-size: 18px;
+    margin-top: 20px;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+span{
+    color: #0000ff;
+}
+
+p{
+    line-height: 1.5;
+}
+
+footer{
+    margin-top: 40px;
+    text-align: center;
+    width: 785px;
+    height: 25px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
